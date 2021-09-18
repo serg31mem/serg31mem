@@ -1,6 +1,6 @@
 # 👋 Hi! My name is *Sergey Karpov*. 
 
-### I am a beginner *Front-end developer* from Samara.
+### I am a *Front-end developer* from Moscow.
 
 ### Languages and technologies:
 
