@@ -12,7 +12,7 @@
 ![REST API](https://img.shields.io/badge/-REST_API-090909?style=for-the-badge&logo=REST_API)
 
 ### &#9993; Mail me: *sergey31karpov@gmail.com*
-### 💬 [Telegram](https://t.me/sergey_karpov31), [Instagram](https://www.instagram.com/sergey_karpov_/)
+### 💬 [Telegram](https://t.me/sergey_karpov31)
 
 
 
